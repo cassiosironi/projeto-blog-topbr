@@ -1,5 +1,7 @@
-# ToBrasil
+# Projeto blog interno To Brasil
 
-Projeto Mockado, necessitando utilizar o npm run mock:server e logo após o ng serve.
 
+Utilizando o mock.
+
+npm run serve:mock
 
